@@ -1,0 +1,23 @@
+{
+  "name": "acpi",
+  "version": "0.0.1",
+  "description": "listen for ACPID events",
+  "main": "acpi.js",
+  "scripts": {
+    "test": "echo 'no tests yet'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chesles/node-acpi.git"
+  },
+  "keywords": [
+    "acpi",
+    "acpid"
+  ],
+  "author": "John Chesley <john@chesl.es>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chesles/node-acpi/issues"
+  },
+  "homepage": "https://github.com/chesles/node-acpi"
+}
